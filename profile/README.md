@@ -40,12 +40,12 @@ QaQ Team 是一个充满活力的开发团队，专注于构建高质量的开�
 
 ## 👥 团队成员
 
-- 🪴 [alltobebetter](https://github.com/alltobebetter) - 总体框架和统筹规划
-- 🍄 [Xavier](https://github.com/Xavier-Tse) - 身份认证和后期优化
-- 🌟 [jtf_shine](https://github.com/jyfct356) - 后期整合与优化
-- 🍋 [Z-j19](https://github.com/Z-j19) - 支付模块与优化
-- 🥑 [408 God](https://github.com//NEUFFFYK) - 订单模块与后期处理
-- 🌿 [liberty](https://github.com/liberty0722) - 后期规划与整合
+- 🪴 [alltobebetter](https://github.com/alltobebetter)
+- 🍄 [Xavier](https://github.com/Xavier-Tse)
+- 🌟 [jtf_shine](https://github.com/jyfct356)
+- 🍋 [Z-j19](https://github.com/Z-j19)
+- 🥑 [408 God](https://github.com//NEUFFFYK)
+- 🌿 [liberty](https://github.com/liberty0722)
 
 ## 📜 开源协议
 
